@@ -1,6 +1,6 @@
 
 
-# 📊 Pharmacy Sales & Insights Dashboard
+# 📊 Pharmacy Sales Performance Dashboard
 
 **SQL + Power BI Portfolio Project**
 
