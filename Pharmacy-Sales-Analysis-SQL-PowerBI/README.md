@@ -2,7 +2,7 @@
 
 ---
 
-# 📊 Pharmacy Sales Analysis Dashboard
+# 📊 Pharmacy Sales Performance Dashboard
 
 This project analyzes sales data from a pharmacy business using **MySQL** and **Power BI**.
 It includes data cleaning, SQL exploration, and an interactive dashboard with insights on customers, stores, and product performance.
@@ -116,5 +116,6 @@ The project includes:
 *Data Analyst | SQL • Power BI • Python*
 
 ---
+
 
 
