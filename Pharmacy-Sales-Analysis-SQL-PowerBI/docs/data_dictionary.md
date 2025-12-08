@@ -44,4 +44,5 @@
 | product_id | Product sold |
 | quantity | Units sold |
 | total_amount | Total sale value |
-| payment_method | Cash/POS/Transfer |
+| payment_method | Cash/Card/Mobile money |
+
