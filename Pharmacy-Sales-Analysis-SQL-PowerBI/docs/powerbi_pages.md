@@ -14,7 +14,6 @@
 
 ## Page 3 — Store Analysis
 - Revenue by Store (Clustered Bar)
-- Store Location Map
 - KPI: Best Performing Store
 
 ## Page 4 — Customer Insights
@@ -22,3 +21,4 @@
 - Age Groups (Column Chart)
 - Revenue by City (Bar Chart)
 - Loyalty Member Spend (KPI)
+
