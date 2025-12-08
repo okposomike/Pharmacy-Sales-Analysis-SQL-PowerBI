@@ -1,0 +1,31 @@
+employee_id,first_name,last_name,role,store_id,hire_date
+1,Emp01,LN01,Pharmacist,3,2022-12-07
+2,Emp02,LN02,Cashier,1,2018-12-18
+3,Emp03,LN03,Pharmacist,2,2023-11-24
+4,Emp04,LN04,Inventory Clerk,2,2019-03-30
+5,Emp05,LN05,Cashier,4,2018-10-05
+6,Emp06,LN06,Store Manager,5,2023-07-01
+7,Emp07,LN07,Cashier,5,2019-05-14
+8,Emp08,LN08,Sales Associate,4,2018-11-01
+9,Emp09,LN09,Pharmacist,4,2017-05-04
+10,Emp10,LN10,Inventory Clerk,4,2016-10-02
+11,Emp11,LN11,Store Manager,1,2023-07-03
+12,Emp12,LN12,Store Manager,2,2022-04-08
+13,Emp13,LN13,Cashier,4,2019-05-24
+14,Emp14,LN14,Sales Associate,3,2019-06-28
+15,Emp15,LN15,Pharmacist,3,2016-05-05
+16,Emp16,LN16,Inventory Clerk,3,2016-08-04
+17,Emp17,LN17,Pharmacist,4,2025-03-31
+18,Emp18,LN18,Store Manager,2,2019-04-23
+19,Emp19,LN19,Pharmacist,4,2024-07-07
+20,Emp20,LN20,Pharmacist,2,2019-05-31
+21,Emp21,LN21,Inventory Clerk,1,2024-11-29
+22,Emp22,LN22,Pharmacist,3,2022-12-17
+23,Emp23,LN23,Sales Associate,2,2022-10-10
+24,Emp24,LN24,Inventory Clerk,2,2024-11-23
+25,Emp25,LN25,Pharmacist,5,2018-07-07
+26,Emp26,LN26,Sales Associate,5,2025-07-31
+27,Emp27,LN27,Sales Associate,2,2019-08-10
+28,Emp28,LN28,Store Manager,2,2022-01-07
+29,Emp29,LN29,Inventory Clerk,1,2022-08-28
+30,Emp30,LN30,Store Manager,2,2020-07-19

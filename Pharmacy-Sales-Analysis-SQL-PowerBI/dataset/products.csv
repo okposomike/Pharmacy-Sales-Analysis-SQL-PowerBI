@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,unit_price,unit_cost,is_prescription
+1,PharmCo MED-001,Medical Devices,PharmCo,3121.41,2599.35,0
+2,Healix OTC-002,OTC,Healix,5909.55,4193.01,0
+3,MediLife PRE-003,Prescription,MediLife,1416.95,785.84,1
+4,PharmCo PRE-004,Prescription,PharmCo,653.05,524.5,1
+5,CareWell MED-005,Medical Devices,CareWell,4888.7,3655.89,0
+6,CareWell OTC-006,OTC,CareWell,360.56,302.68,0
+7,PharmCo PER-007,Personal Care,PharmCo,6693.05,3843.94,0
+8,PharmCo OTC-008,OTC,PharmCo,1618.23,912.99,0
+9,MediLife PRE-009,Prescription,MediLife,2573.09,1759.13,1
+10,CareWell BAB-010,Baby Care,CareWell,3569.17,2148.39,0
+11,CareWell OTC-011,OTC,CareWell,4972.45,2728.99,0
+12,CareWell PRE-012,Prescription,CareWell,2478.73,1557.2,1
+13,MediLife PER-013,Personal Care,MediLife,3757.35,2911.24,0
+14,CareWell PER-014,Personal Care,CareWell,1757.46,1195.04,0
+15,PharmCo SUP-015,Supplements,PharmCo,4820.83,2488.79,0
+16,NutriPlus PRE-016,Prescription,NutriPlus,4938.85,2764.19,1
+17,Healix SUP-017,Supplements,Healix,707.4,588.63,0
+18,MediLife PRE-018,Prescription,MediLife,7731.93,6053.63,1
+19,PharmCo SUP-019,Supplements,PharmCo,2575.99,1376.06,0
+20,NutriPlus OTC-020,OTC,NutriPlus,5537.02,3621.51,0
+21,Healix OTC-021,OTC,Healix,1151.9,775.59,0
+22,CareWell SUP-022,Supplements,CareWell,468.23,383.13,0
+23,PharmCo SUP-023,Supplements,PharmCo,2218.48,1623.67,0
+24,NutriPlus MED-024,Medical Devices,NutriPlus,2631.35,1794.64,0
+25,PharmCo BAB-025,Baby Care,PharmCo,4464.34,2521.01,0
+26,PharmCo PER-026,Personal Care,PharmCo,7762.76,5987.39,0
+27,Healix BAB-027,Baby Care,Healix,7528.09,6121.76,0
+28,CareWell MED-028,Medical Devices,CareWell,4863.62,4001.09,0
+29,CareWell SUP-029,Supplements,CareWell,890.24,506.19,0
+30,PharmCo PRE-030,Prescription,PharmCo,552.77,339.33,1
+31,MediLife OTC-031,OTC,MediLife,3231.68,1922.76,0
+32,PharmCo SUP-032,Supplements,PharmCo,6664.15,4164.19,0
+33,PharmCo PRE-033,Prescription,PharmCo,2391.29,1649.86,1
+34,Healix PER-034,Personal Care,Healix,1299.21,1014.38,0
+35,Healix PER-035,Personal Care,Healix,781.5,660.69,0
+36,Healix PRE-036,Prescription,Healix,6223.51,3544.6,1
+37,MediLife SUP-037,Supplements,MediLife,243.07,190.91,0
+38,Healix MED-038,Medical Devices,Healix,5713.49,4314.56,0
+39,PharmCo MED-039,Medical Devices,PharmCo,6215.91,3269.04,0
+40,MediLife BAB-040,Baby Care,MediLife,2996.03,1619.52,0
+41,MediLife BAB-041,Baby Care,MediLife,6932.21,4978.4,0
+42,NutriPlus PRE-042,Prescription,NutriPlus,2781.0,1452.36,1
+43,Healix PER-043,Personal Care,Healix,2625.66,1611.67,0
+44,CareWell MED-044,Medical Devices,CareWell,5890.93,4260.0,0
+45,Healix PRE-045,Prescription,Healix,7120.26,4736.93,1
+46,MediLife OTC-046,OTC,MediLife,1132.84,849.22,0
+47,Healix OTC-047,OTC,Healix,6134.12,4272.09,0
+48,Healix PER-048,Personal Care,Healix,6213.54,4180.65,0
+49,MediLife OTC-049,OTC,MediLife,4277.32,2778.72,0
+50,Healix BAB-050,Baby Care,Healix,398.27,214.17,0
+51,NutriPlus PRE-051,Prescription,NutriPlus,445.15,321.73,1
+52,NutriPlus PER-052,Personal Care,NutriPlus,2651.98,1798.04,0
+53,Healix PRE-053,Prescription,Healix,7279.02,4274.62,1
+54,MediLife PRE-054,Prescription,MediLife,3400.99,2599.86,1
+55,CareWell MED-055,Medical Devices,CareWell,1984.63,1045.79,0
+56,Healix BAB-056,Baby Care,Healix,2460.06,1368.84,0
+57,CareWell MED-057,Medical Devices,CareWell,7451.64,5833.46,0
+58,CareWell PER-058,Personal Care,CareWell,5140.55,4138.2,0
+59,Healix PER-059,Personal Care,Healix,6468.64,3656.72,0
+60,MediLife PRE-060,Prescription,MediLife,7161.96,4932.94,1
+61,NutriPlus BAB-061,Baby Care,NutriPlus,6498.03,5287.0,0
+62,PharmCo OTC-062,OTC,PharmCo,2680.43,1443.46,0
+63,MediLife OTC-063,OTC,MediLife,1977.89,1284.62,0
+64,MediLife MED-064,Medical Devices,MediLife,6580.52,5272.68,0
+65,NutriPlus MED-065,Medical Devices,NutriPlus,254.23,172.56,0
+66,PharmCo BAB-066,Baby Care,PharmCo,3455.81,1996.55,0
+67,NutriPlus PER-067,Personal Care,NutriPlus,1134.95,701.59,0
+68,NutriPlus BAB-068,Baby Care,NutriPlus,7554.7,4631.95,0
+69,Healix BAB-069,Baby Care,Healix,4246.57,3168.18,0
+70,PharmCo BAB-070,Baby Care,PharmCo,3036.31,2550.88,0
+71,PharmCo MED-071,Medical Devices,PharmCo,7707.09,4532.72,0
+72,CareWell MED-072,Medical Devices,CareWell,4078.54,2468.77,0
+73,Healix SUP-073,Supplements,Healix,2421.76,1242.15,0
+74,Healix OTC-074,OTC,Healix,4954.6,3349.0,0
+75,MediLife PER-075,Personal Care,MediLife,601.53,359.43,0
+76,PharmCo PER-076,Personal Care,PharmCo,7284.47,4253.01,0
+77,Healix MED-077,Medical Devices,Healix,1330.18,892.96,0
+78,MediLife BAB-078,Baby Care,MediLife,7888.07,4612.31,0
+79,PharmCo BAB-079,Baby Care,PharmCo,5442.66,4172.16,0
+80,Healix MED-080,Medical Devices,Healix,2053.57,1550.19,0
+81,CareWell MED-081,Medical Devices,CareWell,3068.71,2213.48,0
+82,MediLife BAB-082,Baby Care,MediLife,5141.53,3534.91,0
+83,Healix PRE-083,Prescription,Healix,904.26,716.5,1
+84,CareWell PRE-084,Prescription,CareWell,2702.08,1527.44,1
+85,PharmCo BAB-085,Baby Care,PharmCo,518.05,366.16,0
+86,Healix BAB-086,Baby Care,Healix,5485.0,2774.34,0
+87,PharmCo PER-087,Personal Care,PharmCo,4194.33,2429.66,0
+88,Healix OTC-088,OTC,Healix,5232.35,2935.5,0
+89,MediLife SUP-089,Supplements,MediLife,5589.31,3551.21,0
+90,MediLife OTC-090,OTC,MediLife,7506.49,4114.55,0
+91,PharmCo BAB-091,Baby Care,PharmCo,2860.32,1543.76,0
+92,NutriPlus OTC-092,OTC,NutriPlus,7412.61,5982.49,0
+93,CareWell OTC-093,OTC,CareWell,2211.94,1616.92,0
+94,MediLife PRE-094,Prescription,MediLife,6574.33,4564.69,1
+95,NutriPlus MED-095,Medical Devices,NutriPlus,4331.27,2532.27,0
+96,MediLife BAB-096,Baby Care,MediLife,926.2,753.95,0
+97,CareWell SUP-097,Supplements,CareWell,7223.26,5212.2,0
+98,NutriPlus BAB-098,Baby Care,NutriPlus,2844.43,1769.87,0
+99,CareWell PRE-099,Prescription,CareWell,5862.45,4771.97,1
+100,MediLife MED-100,Medical Devices,MediLife,7119.27,5502.89,0
