@@ -1,109 +1,120 @@
-📊 Pharmacy Sales Analysis Dashboard
 
-This project analyzes sales data from a pharmacy business using MySQL and Power BI.
-It includes data cleaning, SQL exploration, and a fully interactive dashboard with insights on customers, stores, and product performance.
 
-📁 Project Structure
-📁 pharmacy-sales-analysis
-│── 📁 data
+---
+
+# 📊 Pharmacy Sales Analysis Dashboard
+
+This project analyzes sales data from a pharmacy business using **MySQL** and **Power BI**.
+It includes data cleaning, SQL exploration, and an interactive dashboard with insights on customers, stores, and product performance.
+
+---
+
+## 📁 Project Structure
+
+```
+pharmacy-sales-analysis
+│── data
 │     └── pharmacy_sales_dataset.xlsx
 │
-│── 📁 sql
+│── sql
 │     ├── 01_create_tables.sql
-│     ├── 02_insert_data.sql
-│     └── 03_sql_questions_and_answers.sql
+│     ├── 02_load_data.sql
+│     └── 03_analysis_queries.sql
 │
-│── 📁 powerbi
+│── powerbi
 │     └── pharmacy_sales_dashboard.pbix
 │
-│── README.md
+└── README.md
+```
 
-🧹 Data Cleaning & Preparation
+---
 
-✔ Removed duplicates
-✔ Cleaned missing values
-✔ Corrected data types (dates, numbers, strings)
-✔ Loaded cleaned tables into MySQL Workbench
-✔ Connected MySQL → Power BI for visual analysis
+## 🧹 Data Cleaning & Preparation
 
-🛢 SQL Analysis
+✔ Removed duplicate rows
+✔ Handled missing values
+✔ Standardized data types (dates, numbers, strings)
+✔ Loaded cleaned dataset into MySQL
+✔ Connected **MySQL → Power BI** for visualization
+
+---
+
+## 🛢 SQL Analysis
 
 The project includes:
 
-10 SQL business questions
+* 10 SQL business questions
+* Queries and answers (see `/sql/03_analysis_queries.sql`)
+* Insights extracted for the dashboard design
 
-Queries and answers (in /sql/03_sql_questions_and_answers.sql)
+---
 
-Summary of insights used to build the dashboard
+## 📊 Power BI Dashboard Pages
 
-📊 Power BI Dashboard Pages
-📌 Page 1 — Executive Summary
+### **📌 Page 1 — Executive Summary**
 
-Total Revenue (Card)
+* Total Revenue (Card)
+* Total Quantity Sold
+* Average Order Value
+* Monthly Revenue Trend (Line Chart)
+* Slicers: Store, Category, Payment Method
 
-Total Quantity Sold
+### **📌 Page 2 — Product Analysis**
 
-Average Order Value
+* Top 10 Products by Revenue
+* Revenue by Category (Treemap)
+* Product Table (Name, Quantity, Revenue)
 
-Revenue Trend by Month (Line Chart)
+### **📌 Page 3 — Store Analysis**
 
-Slicers: Store, Category, Payment Method
+* Revenue by Store (Bar Chart)
+* Store Location Map (optional)
+* KPI: Best Performing Store
 
-📌 Page 2 — Product Analysis
+### **📌 Page 4 — Customer Insights**
 
-Top 10 Products by Revenue
+* Gender Distribution
+* Age Group Breakdown
+* Revenue by Customer City
+* Loyalty Members Spend KPI
 
-Revenue by Category (Treemap)
+---
 
-Product Table: Name, Quantity, Revenue
+## 🔑 Key Insights Summary
 
-📌 Page 3 — Store Analysis
+✔ Revenue shows a steady month-to-month increase
+✔ OTC medicines dominate total product revenue
+✔ **Store A** is the highest-performing branch
+✔ Customers aged **25–40** spend the most
+✔ Loyalty members spend more per transaction
+✔ POS/Card payments are the most used
+✔ Certain cities show higher sales concentration
 
-Revenue by Store (Clustered Bar Chart)
+---
 
-Store Location Map (optional)
+## 🛠 Tools Used
 
-KPI: Best Performing Store
+* **MySQL Workbench** — database + SQL queries
+* **Power BI Desktop** — dashboard creation
+* **Excel** — initial data cleaning
+* **GitHub** — version control
 
-📌 Page 4 — Customer Insights
+---
 
-Gender Distribution
+## 🚀 How to Use This Project
 
-Age Group Analysis
+1. Open the SQL scripts to view table creation and analysis queries
+2. Load `pharmacy_sales_dataset.xlsx` into the MySQL database
+3. Open `pharmacy_sales_dashboard.pbix` in Power BI
+4. Use the slicers (Store, Category, Payment Type) to explore insights
 
-Revenue by Customer City
+---
 
-Loyalty Member Spend KPI
+## 👤 Author
 
-🔑 Key Insights Summary
+**Michael Okposo**
+*Data Analyst | SQL • Power BI • Python*
 
-✔ Total Revenue increased steadily month-to-month, showing growing customer demand.
-✔ Top-selling products contribute a large share of total revenue, especially in categories like OTC medicines.
-✔ Store A generated the highest revenue, making it the best-performing store overall.
-✔ Most customers fall within the 25–40 age group, contributing the largest spending.
-✔ Loyalty program members spend more per transaction compared to non-members.
-✔ Payment methods are diverse, but POS/Card payments dominate.
-✔ Certain cities show higher customer concentration, guiding marketing focus.
+---
 
-🛠 Tools Used
 
-MySQL Workbench – data storage & SQL queries
-
-Power BI Desktop – dashboard creation
-
-Excel – initial data cleaning
-
-GitHub – project version control
-
-🚀 How to Use This Project
-
-Open the SQL files to see how tables were created and queried
-
-Import the .pbix file into Power BI to explore the visuals
-
-Use the slicers to filter insights by store, category, and payment type
-
-👤 Author
-
-Michael Okposo
-Data Analyst | SQL • Power BI • Python
