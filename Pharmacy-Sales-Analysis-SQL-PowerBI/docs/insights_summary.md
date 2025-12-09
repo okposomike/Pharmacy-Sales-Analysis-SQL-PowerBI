@@ -1,7 +1,7 @@
 # Key Insights Summary
 
 ## 🔹 Revenue Performance
-- Total revenue shows a steady upward trend across months.
+- The monthly revenue trend is not linear. Instead, it fluctuates, suggesting varying customer activity influenced by seasonal or operational factors.
 - J-MIGUEL East contributed the highest share of overall revenue.
 - Card and mobile money were the most used payment methods.
 
@@ -18,4 +18,5 @@
 ## 🔹 Store Insights
 - The Main Branch performed best in both sales volume and revenue.
 - Store performance varied greatly by category and season.
+
 
