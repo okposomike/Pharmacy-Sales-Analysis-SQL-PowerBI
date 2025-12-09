@@ -2,8 +2,8 @@
 
 ## 🔹 Revenue Performance
 - Total revenue shows a steady upward trend across months.
-- Store 1 contributed the highest share of overall revenue.
-- POS and Transfer were the most used payment methods.
+- J-MIGUEL East contributed the highest share of overall revenue.
+- Card and mobile money were the most used payment methods.
 
 ## 🔹 Product Insights
 - Antibiotics and Supplements generated the highest revenue.
@@ -18,3 +18,4 @@
 ## 🔹 Store Insights
 - The Main Branch performed best in both sales volume and revenue.
 - Store performance varied greatly by category and season.
+
