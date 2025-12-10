@@ -6,8 +6,9 @@
 - Card and mobile money were the most used payment methods.
 
 ## 🔹 Product Insights
-- Antibiotics and Supplements generated the highest revenue.
-- The top-selling products accounted for more than 40% of total sales.
+- Supplements generated the highest revenue.
+- OTC and Medical devices show comparatively lower revenue performance, indicating under-leveraged segments. Their weaker contribution suggests potential gaps in demand, pricing, or market penetration — but also highlights clear opportunities for targeted growth strategies.
+
 - Demand peaks were linked to seasonal variations.
 
 ## 🔹 Customer Insights
@@ -18,5 +19,6 @@
 ## 🔹 Store Insights
 - The Main Branch performed best in both sales volume and revenue.
 - Store performance varied greatly by category and season.
+
 
 
