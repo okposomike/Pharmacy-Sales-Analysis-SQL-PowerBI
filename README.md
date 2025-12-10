@@ -102,12 +102,26 @@ These SQL scripts are included inside the `/sql` folder:
 
 ## ⭐ Key Insights Summary
 
-* A few top-selling products generated the majority of total revenue.
-* Returning customers contributed significantly to overall transactions, showing strong loyalty.
-* Sales peaked on weekends and late afternoon periods.
-* Some products had very low sales and may require promotions or inventory review.
-* Performance varied across stores, revealing opportunities for operational improvements.
-* Stockouts occurred frequently for high-demand products, indicating the need for better forecasting.
+## 📌 Key Insights Summary
+
+- Monthly revenue fluctuates rather than increasing consistently, indicating seasonal differences in customer purchasing behavior.
+
+- J-MIGUEL East contributed the highest share of total revenue across all store locations.
+
+- Card payments and mobile money were the most frequently used payment methods.
+
+- Supplements generated the highest revenue, while OTC and Medical Devices performed lower, highlighting areas for potential improvement or targeted marketing.
+
+- The majority of customers are aged 41 and above, making this age group the primary demographic for the pharmacy.
+
+- Loyalty members recorded higher average spending compared to non-loyalty customers.
+
+- Customers from Ughelli and Sapele contributed the largest share of overall revenue.
+
+- The Main Branch achieved the strongest performance in both sales volume and total revenue.
+
+- Store performance varied significantly across product categories and seasons, reflecting distinct demand patterns.
+
 
 ---
 
