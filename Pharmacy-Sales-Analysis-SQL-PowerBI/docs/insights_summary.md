@@ -12,13 +12,14 @@
 - Demand peaks were linked to seasonal variations.
 
 ## 🔹 Customer Insights
-- Majority of customers fall between ages 25–40.
+- The majority of customers are aged 41 and above, indicating that this age group represents the primary target demographic for products or services.
 - Loyalty members accounted for a higher average spend.
-- Lagos and Abuja customers represented the largest revenue segments.
+- Ughelli and Sapele customers represented the largest revenue segments.
 
 ## 🔹 Store Insights
 - The Main Branch performed best in both sales volume and revenue.
 - Store performance varied greatly by category and season.
+
 
 
 
