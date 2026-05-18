@@ -102,8 +102,6 @@ These SQL scripts are included inside the `/sql` folder:
 
 ## ⭐ Key Insights Summary
 
-## 📌 Key Insights Summary
-
 - Monthly revenue fluctuates rather than increasing consistently, indicating seasonal differences in customer purchasing behavior.
 
 - J-MIGUEL East contributed the highest share of total revenue across all store locations.
