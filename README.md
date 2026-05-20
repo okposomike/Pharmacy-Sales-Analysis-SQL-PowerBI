@@ -78,12 +78,16 @@ These SQL scripts are included inside the `/sql` folder:
 * Avg Order Value
 * Revenue by Month (line chart)
 * Slicers: Store, Category, Payment Method
+  <img width="1366" height="768" alt="Screenshot 2026-05-20 132325" src="https://github.com/user-attachments/assets/06d9217f-71cc-47c8-a24f-1c965a2a66b0" />
+
 
 ### **📌 Page 2 — Product Analysis**
 
 * Top 10 Products by Revenue
 * Revenue by Category (treemap)
 * Product sales table
+  <img width="1366" height="768" alt="Screenshot 2026-05-20 132338" src="https://github.com/user-attachments/assets/8b193d16-98b2-4515-a76c-a83bd9bc31cf" />
+
 
 ### **📌 Page 3 — Store Insights**
 
